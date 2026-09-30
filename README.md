@@ -1,0 +1,1 @@
+Android programlamada Fragment, Navigation, RecyclerView, SharedPreferences, ViewBinding, TextInputEditText, Singleton gibi nesnelerin kullanımı ile farklı bir yazı tipi(font) nasıl dahil edileceğine dair örnekler mevcuttur
